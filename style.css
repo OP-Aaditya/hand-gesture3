@@ -1,0 +1,23 @@
+body{
+    background-color: darkcyan;
+}
+#camera{
+    border-radius: 250px;
+    border-style: dashed;
+    width: 350px;
+  height: 300px; 
+}
+#result{
+    border-radius: 250px;
+    border-style: dashed;
+    width: 350px;
+  height: 300px;
+}
+.gesture{
+  font-size:60px;
+}
+.gesture_name{
+  font-size:35px;
+  color:palevioletred;
+  font-weight:bold;
+}
